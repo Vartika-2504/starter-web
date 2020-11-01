@@ -11,4 +11,8 @@ Sample website with plenty of files for demos
 
 ##Deployment
 
+Tells us how to deploy
+
 ##How to continue
+
+Steps to continue
